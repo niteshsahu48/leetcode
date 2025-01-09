@@ -1,12 +1,5 @@
-class Solution(object):
-    def removeElement(self, nums, val):
-        """
-        :type nums: List[int]
-        :type val: int
-        :rtype: int
-        """
-
-        count= "_"
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
         for i in range (len(nums)):
             #print(nums[i])
             if val in nums:
@@ -14,5 +7,4 @@ class Solution(object):
                 #nums.append(count)
         #nums.append(count)
         return (len(nums))
-
         
