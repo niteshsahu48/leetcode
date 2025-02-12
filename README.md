@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/niteshsahu48/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/niteshsahu48/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshsahu48/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/niteshsahu48/leetcode/tree/master/0136-single-number) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/niteshsahu48/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/niteshsahu48/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/niteshsahu48/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
