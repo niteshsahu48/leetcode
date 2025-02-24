@@ -5,6 +5,7 @@ class Solution:
         max_first=abs(nums[0]-nums[n-1])
         #print(max_first)
         #print(nums[n-1])
+        
         diff=0
 
         for i in range (1,n):
