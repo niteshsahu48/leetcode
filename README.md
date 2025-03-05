@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/niteshsahu48/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/niteshsahu48/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/niteshsahu48/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/niteshsahu48/leetcode/tree/master/0415-add-strings) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/niteshsahu48/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/niteshsahu48/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/niteshsahu48/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/niteshsahu48/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/niteshsahu48/leetcode/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/niteshsahu48/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/niteshsahu48/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/niteshsahu48/leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
