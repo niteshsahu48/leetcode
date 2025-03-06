@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/niteshsahu48/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/niteshsahu48/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/niteshsahu48/leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/niteshsahu48/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 ## Stack
 |  |
 | ------- |
