@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/niteshsahu48/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/niteshsahu48/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/niteshsahu48/leetcode/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/niteshsahu48/leetcode/tree/master/1013-fibonacci-number) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/niteshsahu48/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/niteshsahu48/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshsahu48/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/niteshsahu48/leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/niteshsahu48/leetcode/tree/master/0414-third-maximum-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/niteshsahu48/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/niteshsahu48/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
