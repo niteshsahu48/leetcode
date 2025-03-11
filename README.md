@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/niteshsahu48/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/niteshsahu48/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/niteshsahu48/leetcode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/niteshsahu48/leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/niteshsahu48/leetcode/tree/master/1013-fibonacci-number) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/niteshsahu48/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
