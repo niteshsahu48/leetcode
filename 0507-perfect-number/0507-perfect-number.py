@@ -8,4 +8,15 @@ class Solution:
                 ans += i + num // i
         return ans == num
 
+        """l=[]
+        if(num%2==1):
+            return False
+
+        for i in range(1,num//2+1):
+            if(num%i==0):
+                l.append(i)
+        if(sum(l)==num):
+            return True
+        return False"""
+
         
