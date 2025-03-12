@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/niteshsahu48/leetcode/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/niteshsahu48/leetcode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
