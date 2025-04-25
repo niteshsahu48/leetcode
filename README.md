@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/niteshsahu48/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshsahu48/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niteshsahu48/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/niteshsahu48/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/niteshsahu48/leetcode/tree/master/0575-distribute-candies) |
 ## String
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/niteshsahu48/leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/niteshsahu48/leetcode/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/niteshsahu48/leetcode/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/niteshsahu48/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niteshsahu48/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/niteshsahu48/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/niteshsahu48/leetcode/tree/master/0575-distribute-candies) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/niteshsahu48/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3723-sum-of-good-numbers](https://github.com/niteshsahu48/leetcode/tree/master/3723-sum-of-good-numbers) |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/niteshsahu48/leetcode/tree/master/1179-game-play-analysis-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/niteshsahu48/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
