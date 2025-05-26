@@ -1,5 +1,10 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
+
+        """for i in range(0,n+1):
+            if i*i==n: return i 
+            if i*i>n:
+                return i-1"""
         if x == 0:
             return 0
         first, last = 1, x
