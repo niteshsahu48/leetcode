@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/niteshsahu48/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/niteshsahu48/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/niteshsahu48/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/niteshsahu48/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/niteshsahu48/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/niteshsahu48/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/niteshsahu48/leetcode/tree/master/0415-add-strings) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/niteshsahu48/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/niteshsahu48/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshsahu48/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/niteshsahu48/leetcode/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/niteshsahu48/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/niteshsahu48/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/niteshsahu48/leetcode/tree/master/0575-distribute-candies) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/niteshsahu48/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niteshsahu48/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/niteshsahu48/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/niteshsahu48/leetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
